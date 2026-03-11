@@ -1,1 +1,0 @@
-"""Shared weather application package."""
